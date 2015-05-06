@@ -1,6 +1,6 @@
 # kinobce  
 
-Nástroj příkazového řádku pro zobrazení programu kina města Boskovice.  
+Command-line tool to view of the cinema program in Boskovice.
 
 ## usage
 
