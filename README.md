@@ -14,3 +14,9 @@ optional arguments:
   -uc, --use_cache - use htmlimput from disk (default in /tmp/)  
   -so, --short_output - show short output  
 
+## requirements
+
+python2.7 and the following packages  
+dateutil  
+BeautifulSoup
+
