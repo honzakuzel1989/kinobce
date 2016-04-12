@@ -1,5 +1,7 @@
 # kinobce  
 
+**Obsolete and non functional because website was changed.**
+
 Command-line tool to view of the cinema program in Boskovice.
 
 ## usage
